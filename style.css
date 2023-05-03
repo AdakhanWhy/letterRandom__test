@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body {
+    width: 100%;
+    min-width: 320px;
+    height: 100vh;
+}
+
+main {
+    width: 35%;
+    height: 20vh;
+
+    margin: 0 auto;
+    padding: 20px;
+
+    border: 2px solid black;
+    border-radius: 15px;
+
+    background-color: darkgray;
+
+    font-size: 35px;
+    font-weight: 700;
+
+    text-align: center;
+}
